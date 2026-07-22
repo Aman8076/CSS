@@ -1,0 +1,40 @@
+/* h1{
+    color:green; 
+    text-align:right;  
+    /* text-decoration:underline ; */
+    /* text-decoration:overline ; */
+    /* text-decoration:line-through; */
+    /* text-decoration:blue wavy underline; 
+}
+body{
+   background-color: burlywood; 
+}
+#headingOne{
+    color:blue;
+  text-align: center;
+  font-weight:200;
+  font-family:Cambria;
+}
+.isClass{
+    color:brown;
+    text-align: center;
+    font-family: cursive;
+    
+}  */ 
+
+
+
+
+/* ------------------font Size------------------- */
+#one{
+    font-size : 20px;
+    
+}
+#two{
+    font-size: 40px;
+    text-transform:uppercase;
+}
+#three{
+    font-size: 96px;
+    font-family:cursive    
+}
